@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: rgb(65, 18, 18);
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    display: flex;
+
+
+}
+#logo_name{
+     color: white;
+     display: flex;
+     width: 200px;
+     justify-content: center;
+     /* font-family: 'Lobster'; */
+     font-family: 'Permanent Marker', cursive;
+     
+     font-size: 45px;
+    align-items: center;
+
+}
+#Search_tag{
+    color: white;
+    margin-top: 25px;
+    margin-left:170px;
+    margin-right: 20px;
+
+}
+#Search_bar{
+    width: 40%;
+    height: 8vh;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+    
+}
+    
+
+
+
+
